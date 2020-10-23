@@ -1,5 +1,5 @@
-# Fintechfun2
-![fun image](https://commetric.com/wp-content/uploads/2018/06/Fintech-2019.jpg)
+# Fintech Case-Study
+![Morningstar case study](https://www.fsnweb.com/wp-content/uploads/2017/01/morningstar-logo-768x261.jpg)
 ---
 ## **Class activity**
 ---
